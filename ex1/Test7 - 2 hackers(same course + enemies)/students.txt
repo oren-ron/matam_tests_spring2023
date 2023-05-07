@@ -1,0 +1,6 @@
+123456789 20 90 Israel Israeli Tel_Aviv CS
+142587652 30 85 Israeli Israelov Jerusalem EE
+132435465 120 100 Bidusa Bidusa Petah_Tikwa CS
+978675643 110 100 Kashani Kashani Tel_Aviv CS
+142587650 70 89 Evil MaEvil Tehran EE
+142587651 72 35 Evil MbEvil Haifa CS
