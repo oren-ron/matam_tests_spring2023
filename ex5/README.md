@@ -8,5 +8,5 @@ $ python3 -m pytest
 ```
 
 ### Disclaimer
-Those tests were taken from https://github.com/mtshrmn/234124-ex5-tests.
-The tests were randomly generated
+Those tests were taken from https://github.com/mtshrmn/234124-ex5-tests. <br />
+The tests were randomly generated.
